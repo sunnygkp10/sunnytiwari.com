@@ -1,0 +1,25 @@
+{
+  "name": "sunnytiwari.com",
+  "homepage": "https://github.com/sunnygkp10/sunnytiwari.com",
+  "authors": [
+    "Sunny Prakash Tiwari <sunnygkp10@gmail.com>"
+  ],
+  "description": "my personal website",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "sunny",
+    "prakash",
+    "tiwari",
+    "resume",
+    "blog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
