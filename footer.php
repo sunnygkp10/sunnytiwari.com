@@ -44,42 +44,12 @@
             © 2016 Copyright Sunny Prakash Tiwari 
              </div>
             <div class="col-md-6">
-         <center>  This website is developed by me.<a href="#" style="blue"> See Website Code</a></center>
+         <center>  This website is developed by me.<a href="https://github.com/sunnygkp10/sunnytiwari.com" style="blue"> See Website Code</a></center>
             </div></div>
           </div></div>
         </footer>
 
-   <!--modal for officers login-->
-<div class="modal fade" id="offlogin" tabindex="-1" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header" style="background:#03A9F4">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <center><p class="modal-title" style="font-size:20px;margin-bottom:20px;">Officer's Login</p></center>
-      </div>
-      <div class="modal-body">
-        <div class="row">
   
-<div class="col-md-offset-3 col-md-6">
- <form role="form" method="post" action="http://localhost/sunnytiwari.com/login.php?type=2">
-     
-     <div class="form-group label-floating">
-  <label class="control-label" for="id">Enter unique voter id</label>
-  <input class="form-control" id="id" name="id" type="text">
-</div>
-     
-     <p><a href="forget/" style="color:blue;">Forget voter id??</a><br> </p>
-<div class="form-group" align="center">
-<input type="submit" name="login" value="Login" class="btn btn-info btn-raised" />
-</div>
-</form>
-</div><div class="col-md-3"></div></div>
-      </div>
-      
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-<!--login modal close-->    
 
 <!--essential javascript for website-->
         
@@ -96,6 +66,14 @@
             $.material.checkbox();
             $.material.radio();
             $(".select").dropdown({ "autoinit" : ".select" });
+            
+            //for dyanmically change of autobiography
+    function toggleChevron(e) {
+    $("#up").toggleClass('glyphicon-chevron-down glyphicon-chevron-up');
+}
+
+
+
         </script>
         <script src="http://localhost/sunnytiwari.com/js/main.js"></script>
         

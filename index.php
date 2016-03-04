@@ -5,6 +5,7 @@ $url=$_SERVER['REQUEST_URI'];
 <meta property="og:type" content="website" />
 <meta property="og:description" content="It is personal website of me (sunny prakash tiwari) for showing my skills and works an to build my online presence.I am a student of Third year Student of B.tech (Information Technology) at Kamla Nehru Institute Of Technology, sultanpur (Uttar Pradesh), India.   " />
 <meta property="og:url" content="http://localhost'.$url.'" />
+<meta name="keywords" content="sunny , sunny tiwari , sunny prakash tiwari , sunnygkp10, tiwari , KNIT, KNIT sultanpur, kamla nehru institute of technology, web developer, software engineer, IT, Information Technology, Personal website," />
 <meta property="og:image" content="http://localhost/sunnytiwari.com/image/snyb.png" />
 <meta property="og:site_name" content="Sunnytiwari.com" />';
 
@@ -12,6 +13,8 @@ $url=$_SERVER['REQUEST_URI'];
        $nav=1;
        include 'header.php';
 ?>
+
+<!--code for wallpaper start-->
 <div class="row">
     <div class="col-xs-12 main_bg">
     <br>
@@ -22,6 +25,7 @@ $url=$_SERVER['REQUEST_URI'];
      <div class="hidden-xs"><br><br><br><br></div>
 </div>
 </div>
+
     
 <!--motivational quaotes-->
 <div class="row" id="main_quote">
@@ -29,6 +33,8 @@ $url=$_SERVER['REQUEST_URI'];
     <h4>" If you can dream it, you can do it. -- Walt Disney"</h4>
     </div></div>
  <br>
+
+<!--main content start-->
         <div class="container">
            
             <div class="row">
@@ -36,7 +42,7 @@ $url=$_SERVER['REQUEST_URI'];
                     <div class="col-xs-12 col-sm-3 lib">
                          <div class="panel panel-default">
                        <div class="panel-body lib_body">
-                        <a href="#">
+                        <a href="aboutme/">
                             <center> <span class="ca-icon"><i class="mdi mdi-account"></i></span></center> 
                             <div class="ca-content">
                                 <h2 class="ca-main">Know Me</h2>
@@ -92,40 +98,45 @@ $url=$_SERVER['REQUEST_URI'];
                     
               
                 </div>
+            
+    <!--About start-->        
 <div class="row">
             <div class="col-xs-12">
      <div class="panel panel-default">
                        <div class="panel-body detail">
-                           <p class="title2">Hi, I am Sunny Prakash Tiwari, a Third year undergrad student from India. I code and just code. I am a Full stack web developer and Freelancer. I love to travel and meet new people. Currently, I am actively seeking a  software engineering internship role anywhere around the globe. Peer Group, Work Quality and Growth Opportunities are the most important things I am looking for in a internship. To know more about me <a href="#" style="color:blue">click here.</a></p>
+                           <p class="title2">Hi, I am Sunny Prakash Tiwari, a Third year undergrad student from India. I code and just code. I am a Full stack web developer and Freelancer. I love to travel and meet new people. Currently, I am actively seeking a  software engineering internship role anywhere around the globe. Peer Group, Work Quality and Growth Opportunities are the most important things. <span style="color:#F44336;" >I am looking for an internship</span>. To know more about me <a href="#" style="color:blue">click here.</a></p>
                     <hr>
+            
                            
+                            <!--At a glance start--> 
 <p class="title">At A Glance</p>
-         
+         <br>
          <div class="row">
                            <div class="col-xs-12 col-sm-4">
-                               <p class="title1">Education</p>
+                               
+                               <p class="title1">Education</p><hr>
                                                   <p class="title2">Undergraduate Student at Kamla Nehru Institute of Technology, Sultanpur, Uttar Pradesh, India. <br>
 Major in Information Technology 
 Batch of 2017</p>
-      <a href ="#" class="btn btn-sm btn-danger btn-raised">Learn more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
+      <a href ="#" class="btn btn-sm btn-danger btn-raised" title="Sunny's Academic career">Learn more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
                                  
              </div>
              
                <div class="col-xs-12 col-sm-4">
-                               <p class="title1">Form</p>
+                               <p class="title1">From</p><hr>
             
                     <p class="title2">Born and brought up in Kushinagar (the city of Gautam Buddha), Uttar Pradesh India. <br>
 Currently living in the Sultanpur, Uttar Pradesh, India.</p>
-           <a href ="#" class="btn btn-sm btn-danger btn-raised">Know more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
+           <a href ="aboutme/" class="btn btn-sm btn-danger btn-raised" title="Sunny's Personal life">Know more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
              
              </div>
              
                <div class="col-xs-12 col-sm-4">
-                               <p class="title1">Experience</p>
-                               <p class="title2">Project Head at Drishticone KNIT Newsletter <br>
-                                   Summer Training in Netcamp Solution Pvt.limited<br>
+                               <p class="title1">Experience</p><hr>
+                               <p class="title2">Project Head at Drishticone KNIT Newsletter, <br>
+                                   Summer Training in Netcamp Solution Pvt.limited,<br>
                                    Freelancer
-</p>  <a href ="#" class="btn btn-sm btn-danger btn-raised">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
+</p>  <a href ="#" class="btn btn-sm btn-danger btn-raised" title="Sunny's Professional career">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
              
              </div>
                            </div>

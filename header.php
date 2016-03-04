@@ -77,14 +77,14 @@ session_start();
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li <?php if ($nav == 1) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-home"></i>&nbsp;Home<span class="sr-only">(current)</span></a></li>
-        <li <?php if ($nav == 2) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-account-circle"></i>&nbsp;About me</a></li>
-              <li <?php if ($nav == 3) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-laptop-mac"></i>&nbsp;Skills</a></li>
+        <li <?php if ($nav == 1) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com"><i class="mdi mdi-home"></i>&nbsp;Home<span class="sr-only">(current)</span></a></li>
+        <li <?php if ($nav == 2) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/aboutme/"><i class="mdi mdi-account-circle"></i>&nbsp;About me</a></li>
+              <li <?php if ($nav == 3) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/portofolio/"><i class="mdi mdi-laptop-mac"></i>&nbsp;Skills</a></li>
           <li class="dropdown <?php if ($nav == 4) echo 'active';?>">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="mdi mdi-school"></i>&nbsp;Career<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Academic Career</a></li>
-            <li><a href="#">Professional Career</a></li>
+            <li><a href="http://localhost/sunnytiwari.com/career/academic">Academic Career</a></li>
+            <li><a href="http://localhost/sunnytiwari.com/career/professional">Professional Career</a></li>
             
           </ul>
         </li>
