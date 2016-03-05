@@ -88,25 +88,13 @@ session_start();
             
           </ul>
         </li>
-          <li <?php if ($nav == 5) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-certificate"></i>&nbsp;Achievements</a></li>
+          <li <?php if ($nav == 5) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/achievements/"><i class="mdi mdi-certificate"></i>&nbsp;Achievements</a></li>
           <li <?php if ($nav == 6) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-wordpress"></i>&nbsp;Blog</a></li>
-          <li <?php if ($nav == 7) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-contact-mail"></i>&nbsp;Contact</a></li>
+          <li <?php if ($nav == 7) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/contact/"><i class="mdi mdi-contact-mail"></i>&nbsp;Contact</a></li>
         
       </ul>
          
-        <?php if(isset($_SESSION['id'])){
-    $url =$_SERVER['REQUEST_URI'];
-    echo '
-    <ul class="nav navbar-nav navbar-right">
-          <li class="dropdown ">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="material-icons">person</i>&nbsp;welcome,&nbsp;<span style="color:#9C27B0">'.$_SESSION['name'].'</span>  <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-           <li><a href="http://localhost/sunnytiwari.com/profile">Profile</a></li>
-            <li><a href="http://localhost/sunnytiwari.com/logout.php?q=http://localhost'.$url.'">Logout</a></li>
-            </ul>
-        </li></ul>';
-}
-        ?>
+       
       
       
     </div><!-- /.navbar-collapse -->

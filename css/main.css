@@ -335,3 +335,12 @@ header{
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
 
 .highcharts-container{width:100% !important;}
+
+.social tbody tr td a{
+    color:#2196F3;
+    text-decoration:underline;
+    
+}
+.social tbody tr td a:hover{
+    text-decoration: none;
+}
