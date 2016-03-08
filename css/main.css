@@ -11,6 +11,14 @@ a:hover
 {
 	text-decoration:none;
 }
+a.panel-heading:visited
+{ 
+     text-decoration: none !important;
+}
+:visited
+{ 
+     text-decoration: none !important;
+}
 
 body
 {

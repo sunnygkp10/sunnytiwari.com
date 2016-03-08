@@ -348,7 +348,7 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
              <div class="col-xs-12">
                  <p class="title3">
                  <img src="http://localhost/sunnytiwari.com/image/jnvlogo.png" align="right" style="height:150px;width:120px;padding:10px;" />
-                    I am selected for Jawahar Navodaya Vidyalaya , Kushinagar in  july 2005 throgh <b>JNVST (Jawahar Navodaya vidyalaya Selection Test) conducted by CBSE.</b> It is  is a fully residential, co-educational school affiliated to CBSE, New Delhi and has classes from VI to XII standard. This Vidyalaya is run by Navodaya Vidyalaya Samiti, New Delhi, an autonomous organization under the Department of Education and Literacy, Ministry of H.R.D., Government of India.
+                    I was selected for Jawahar Navodaya Vidyalaya , Kushinagar in  july 2005 through <b>JNVST (Jawahar Navodaya vidyalaya Selection Test) conducted by CBSE.</b> It is a fully residential, co-educational school affiliated to CBSE, New Delhi and has classes from VI to XII standard. This Vidyalaya is run by Navodaya Vidyalaya Samiti, New Delhi, an autonomous organization under the Department of Education and Literacy, Ministry of H.R.D., Government of India.
                      </p>
                  </div>
              
@@ -360,7 +360,7 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
   
              
              <!--quick fact for school start-->
-             <p>✔&nbsp;<strong>School</strong>&nbsp;:&nbsp;<a href="http://www.jnvkushinagar.org/" target="_blank">Jawahar Navodaya Vidyalaya , Kushinagr</a></p>
+             <p>✔&nbsp;<strong>School</strong>&nbsp;:&nbsp;<a href="http://www.jnvkushinagar.org/" target="_blank">Jawahar Navodaya Vidyalaya , Kushinagar</a></p>
 
 <p>✔&nbsp;<strong>Affiliation</strong>&nbsp;:&nbsp;<a href="http://cbse.nic.in/" target="_blank">Central Board of Secondary Education (CBSE)</a></p>
 

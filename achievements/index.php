@@ -62,7 +62,7 @@ July, 2015 by Netcamp at LNM Institute of Information Technology, Jaipur. ( <a h
       <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;2<sup>nd</sup> Price in <span style="color:#F44336">App Development</span> in Effulgence (National Level Techfest) at KNIT sultanpur held on 3-5 April 2015.  ( <a href="#" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
       <hr>
       
-      <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;2<sup>nd</sup> Level <span style="color:#F44336">NTSE(National Talent search examination 2009) qualified.</span> in Effulgence (National Level Techfest) at KNIT sultanpur held on 3-5 April 2015.  ( <a href="#" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
+      <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;2<sup>nd</sup> Level <span style="color:#F44336">NTSE(National Talent search examination 2009)</span> qualified. ( <a href="#" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
       <hr>
       
                       </div>

@@ -56,7 +56,7 @@ $url=$_SERVER['REQUEST_URI'];
                  <div class="col-xs-12 col-sm-3 lib">
                          <div class="panel panel-default">
                        <div class="panel-body lib_body">
-                        <a href="#">
+                        <a href="https://github.com/sunnygkp10" target="_blank">
                             <center><span class="ca-icon"><i class="mdi mdi-code-tags"></i></span></center> 
                             <div class="ca-content">
                                 <h2 class="ca-main">Work sample</h2>
@@ -70,7 +70,7 @@ $url=$_SERVER['REQUEST_URI'];
                  <div class="col-xs-12 col-sm-3 lib">
                          <div class="panel panel-default">
                        <div class="panel-body lib_body">
-                        <a href="#">
+                        <a href="http://localhost/sunnytiwari.com/contact/">
                              <center><span class="ca-icon"><i class="mdi mdi-message-text-outline"></i></span></center> 
                             <div class="ca-content">
                                 <h2 class="ca-main">Contact me</h2>
@@ -118,7 +118,7 @@ $url=$_SERVER['REQUEST_URI'];
                                                   <p class="title2">Undergraduate Student at Kamla Nehru Institute of Technology, Sultanpur, Uttar Pradesh, India. <br>
 Major in Information Technology 
 Batch of 2017</p>
-      <a href ="#" class="btn btn-sm btn-danger btn-raised" title="Sunny's Academic career">Learn more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
+      <a href ="http://localhost/sunnytiwari.com/career/academic/" class="btn btn-sm btn-danger btn-raised" title="Sunny's Academic career">Learn more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
                                  
              </div>
              
@@ -136,7 +136,7 @@ Currently living in the Sultanpur, Uttar Pradesh, India.</p>
                                <p class="title2">Project Head at Drishticone KNIT Newsletter, <br>
                                    Summer Training in Netcamp Solution Pvt.limited,<br>
                                    Freelancer
-</p>  <a href ="#" class="btn btn-sm btn-danger btn-raised" title="Sunny's Professional career">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
+</p>  <a href ="http://localhost/sunnytiwari.com/career/professional/" class="btn btn-sm btn-danger btn-raised" title="Sunny's Professional career">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
              
              </div>
                            </div>
