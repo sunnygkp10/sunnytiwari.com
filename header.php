@@ -3,9 +3,7 @@
 if(!isset($nav)){
     $nav=0;
 }
-if(!isset($sidemenu)){
-    $sidemenu=0;
-}
+
 
 date_default_timezone_set('Asia/Calcutta');
 error_reporting(E_ALL);
@@ -79,7 +77,15 @@ session_start();
       <ul class="nav navbar-nav navbar-right">
         <li <?php if ($nav == 1) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com"><i class="mdi mdi-home"></i>&nbsp;Home<span class="sr-only">(current)</span></a></li>
         <li <?php if ($nav == 2) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/aboutme/"><i class="mdi mdi-account-circle"></i>&nbsp;About me</a></li>
-              <li <?php if ($nav == 3) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/portofolio/"><i class="mdi mdi-laptop-mac"></i>&nbsp;Skills</a></li>
+            <li class="dropdown <?php if ($nav ==3 ) echo 'active';?>">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="mdi mdi-laptop-mac"></i>&nbsp;Skills<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://localhost/sunnytiwari.com/portofolio/">Significant Projects</a></li>
+            <li><a href="http://localhost/sunnytiwari.com/portofolio/#technical">Technical Skills</a></li>
+            
+          </ul>
+        </li>
+          
           <li class="dropdown <?php if ($nav == 4) echo 'active';?>">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="mdi mdi-school"></i>&nbsp;Career<span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -89,7 +95,7 @@ session_start();
           </ul>
         </li>
           <li <?php if ($nav == 5) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/achievements/"><i class="mdi mdi-certificate"></i>&nbsp;Achievements</a></li>
-          <li <?php if ($nav == 6) echo 'class="active"';?> ><a href="#"><i class="mdi mdi-wordpress"></i>&nbsp;Blog</a></li>
+      <!--    <li <?php if ($nav == 6) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/blog"><i class="mdi mdi-wordpress"></i>&nbsp;Blog</a></li>-->
           <li <?php if ($nav == 7) echo 'class="active"';?> ><a href="http://localhost/sunnytiwari.com/contact/"><i class="mdi mdi-contact-mail"></i>&nbsp;Contact</a></li>
         
       </ul>

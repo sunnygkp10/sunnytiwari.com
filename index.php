@@ -104,7 +104,7 @@ $url=$_SERVER['REQUEST_URI'];
             <div class="col-xs-12">
      <div class="panel panel-default">
                        <div class="panel-body detail">
-                           <p class="title2">Hi, I am Sunny Prakash Tiwari, a Third year undergrad student from India. I code and just code. I am a Full stack web developer and Freelancer. I love to travel and meet new people. Currently, I am actively seeking a  software engineering internship role anywhere around the globe. Peer Group, Work Quality and Growth Opportunities are the most important things. <span style="color:#F44336;" >I am looking for an internship</span>. To know more about me <a href="#" style="color:blue">click here.</a></p>
+                           <p class="title2">Hi, I am Sunny Prakash Tiwari, a Third year undergrad student from India. I code and just code. I am a Full stack web developer and Freelancer. I love to travel and meet new people. Currently, I am actively seeking a  software engineering internship role anywhere around the globe. Peer Group, Work Quality and Growth Opportunities are the most important things. <span style="color:#F44336;" >I am looking for an internship</span>. To know more about me <a href="http://localhost/sunnytiwari.com/aboutme/" style="color:blue">click here.</a></p>
                     <hr>
             
                            
@@ -136,7 +136,7 @@ Currently living in the Sultanpur, Uttar Pradesh, India.</p>
                                <p class="title2">Project Head at Drishticone KNIT Newsletter, <br>
                                    Summer Training in Netcamp Solution Pvt.limited,<br>
                                    Freelancer
-</p>  <a href ="http://localhost/sunnytiwari.com/career/professional/" class="btn btn-sm btn-danger btn-raised" title="Sunny's Professional career">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
+</p>  <a href ="http://localhost/sunnytiwari.com/portofolio/" class="btn btn-sm btn-danger btn-raised" title="Sunny's Professional career">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
              
              </div>
                            </div>
@@ -148,7 +148,7 @@ Currently living in the Sultanpur, Uttar Pradesh, India.</p>
 
 No testimonial to display :( Be the first one to write a testimonial for me :) <br>
 
-                               If you want to write a testimonial for me <a href="#" style="color:blue">click here.</a></p>
+                               If you want to write a testimonial for me <a href="http://localhost/sunnytiwari.com/add_testimonial/" style="color:blue">click here.</a></p>
          
          </div></div><!--panel closed-->
                 

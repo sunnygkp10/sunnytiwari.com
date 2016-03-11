@@ -12,11 +12,24 @@ $url=$_SERVER['REQUEST_URI'];
        $title='Sunny Prakash Tiwari :: Contacts';
        $nav=7;
        include '../header.php';
+$_SESSION['lastSiteId'] = 'spambot';
+$_SESSION['lastSiteRequest'] = time();
 ?>
 
  <div class="container">
             <div class="row">
                 <div class="col-xs-12">
+                                
+                     <!--alert message display-->
+        <?php if(isset($_GET['q'])){
+    echo '
+            <div class="alert alert-dismissible alert-success" style="background:#8BC34A">
+  <button type="button" class="close" data-dismiss="alert">×</button>
+  <strong>Thank you !!</strong> '.$_GET['q'].'
+</div>';
+}
+      ?>    
+                    
                   <div class="panel panel-primary" >
  <div  class="panel-heading panel-heading-custom" style="background: #F44336; color: #fff; font-size:20px;">Contact me <span class="pull-right hidden-xs">Get in touch today !</span></div>
                     
@@ -61,7 +74,7 @@ $url=$_SERVER['REQUEST_URI'];
       </div>
       <br><br>
       <p class="title1">Or Leave A Message For Me</p><br>
-      <form action="#" method="post">
+      <form action="update.php" method="post">
           <div class="row">
               <div class="col-xs-12 col-sm-6">
           

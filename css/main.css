@@ -146,7 +146,7 @@ header{
    
 
 }
-.title2{
+.title2,p{
     font-size: 14px;
     color: #666;
     line-height: 20px;
@@ -352,3 +352,4 @@ header{
 .social tbody tr td a:hover{
     text-decoration: none;
 }
+

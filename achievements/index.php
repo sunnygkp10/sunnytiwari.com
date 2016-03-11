@@ -56,14 +56,14 @@ July, 2015 by Netcamp at LNM Institute of Information Technology, Jaipur. ( <a h
         <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;<span style="color:#F44336">Project Head</span> at <span style="color:#F44336">webteam</span> of Drishticone KNIT Newsletter since May 2014. ( <a href="http://drishticone.org/developer/" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
       <hr>
       
-        <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;Organized workshop on Network Management and Web Development to help juniors.  ( <a href="#" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
+        <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;Organized workshop on Network Management and Web Development to help juniors.  ( <a href="https://drive.google.com/folderview?id=0B68yhAQuW4sTbmxzQVp2bFVxVnM&usp=sharing" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
       <hr>
       
-      <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;2<sup>nd</sup> Price in <span style="color:#F44336">App Development</span> in Effulgence (National Level Techfest) at KNIT sultanpur held on 3-5 April 2015.  ( <a href="#" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
+      <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;2<sup>nd</sup> Price in <span style="color:#F44336">App Development</span> in Effulgence (National Level Techfest) at KNIT sultanpur held on 3-5 April 2015.  ( <a href="https://drive.google.com/file/d/0B68yhAQuW4sTY1lzSTJqVllPMkk/view?usp=sharing" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
       <hr>
       
-      <p class="title2"><i class="mdi mdi-star" style="color:#F44336"></i>&nbsp;&nbsp;2<sup>nd</sup> Level <span style="color:#F44336">NTSE(National Talent search examination 2009)</span> qualified. ( <a href="#" target="_blank" style="color:blue">Click here</a> for proof. )<br></p>
-      <hr>
+      
+    
       
                       </div>
                             </div>

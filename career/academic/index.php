@@ -19,7 +19,7 @@ $url=$_SERVER['REQUEST_URI'];
             
                     <div class="col-xs-12 ">
                          <div class="panel panel-primary">
-                              <div class="panel-heading panel-heading-custom" style="background: #F44336; color: #fff; font-size:20px;">My Academic Career <span class="pull-right hidden-xs"><a href="#" style="color:#fff;text-decoration:none">View my Professional Career</a></span></div>
+                              <div class="panel-heading panel-heading-custom" style="background: #F44336; color: #fff; font-size:20px;">My Academic Career <span class="pull-right hidden-xs"><a href="http://localhost/sunnytiwari.com/career/professional/" style="color:#fff;text-decoration:none">View my Professional Career</a></span></div>
                          
                         </div></div>
          
@@ -57,15 +57,17 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
              <center><hr width="30%" ></center>
              <br>
              <!--quick fact for College start-->
-             <p>✔&nbsp;<strong>Institute</strong>&nbsp;:&nbsp;<a href="http://nitk.ac.in/" target="_blank">Kamla Nehru Institute of Technology Sultanpur, Uttar Pradesh, India</a>. (<a href="#" target="_blank" style="color:blue">click here</a>&nbsp;to view proof of enrollment)</p>
+             <p>✔&nbsp;<strong>Institute</strong>&nbsp;:&nbsp;<a href="http://nitk.ac.in/" target="_blank">Kamla Nehru Institute of Technology Sultanpur, Uttar Pradesh, India</a>.<!-- (<a href="#" target="_blank" style="color:blue">click here</a>&nbsp;to view proof of enrollment)--></p>
+             
+             <p>✔&nbsp;<strong>Affiliation</strong>&nbsp;:&nbsp;<a href="http://uptu.ac.in/" target="_blank">Dr. APJ Abdul Kalam Technical University (AKTU), Uttar Pradesh</a></p>
 
 <p>✔&nbsp;<strong>Degree</strong>&nbsp;: Bachelor of Technology (B.Tech)</p>
 
-<p>✔&nbsp;<strong>Major / Branch</strong>&nbsp;:&nbsp;<a href="#" target="_blank">Information Technology</a></p>
+<p>✔&nbsp;<strong>Major / Branch</strong>&nbsp;:&nbsp;Information Technology</p>
 
 <p>✔&nbsp;<strong>Expected Date of Graduation</strong>&nbsp;: 30thMay, 2017</p>
 
-<p>✔&nbsp;<strong>Cumulative Marks</strong>&nbsp;:77.95%, after 5thSemester.&nbsp;<a href="#" target="_blank" style="color:blue">Click here</a>&nbsp;to view my Transcript.</p>
+<p>✔&nbsp;<strong>Cumulative Marks</strong>&nbsp;:77.95%, after 5thSemester.&nbsp;<a href="https://drive.google.com/folderview?id=0B68yhAQuW4sTLUVwV01WSHdFS2M&usp=sharing" target="_blank" style="color:blue">Click here</a>&nbsp;to view my Transcript.</p>
 
 <p>✔&nbsp;<strong>Admission Test</strong>&nbsp;: UPSEE 2013 (Rank 4443)</p>
              
@@ -316,7 +318,7 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
 
 <p>✔&nbsp;<strong>Final Score</strong>&nbsp;: 87%</p>
 
-<p>✔&nbsp;<strong>Relevant Docs</strong>&nbsp;:&nbsp;<a  style="color:blue" href="#" target="_blank">CBSE Marsheet</a>,&nbsp;<a href="#" style="color:blue"  target="_blank">12thMarksheet</a>,&nbsp;</p>
+<p>✔&nbsp;<strong>Relevant Docs</strong>&nbsp;:&nbsp;<a  style="color:blue" href="https://drive.google.com/file/d/0B68yhAQuW4sTT0xORkJlWU5CTms/view?usp=sharing" target="_blank">CBSE Marsheet</a>,&nbsp;<a href="https://drive.google.com/file/d/0B68yhAQuW4sTV0lJNVVMVEVScDQ/view?usp=sharing" style="color:blue"  target="_blank">12thMarksheet</a>,&nbsp;</p>
 
              <br><br>   
              
@@ -370,7 +372,7 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
 
 <p>✔&nbsp;<strong>Final Score</strong>&nbsp;: 9.6 CGPA out of 10 CGPA</p>
 
-<p>✔&nbsp;<strong>Relevant Docs</strong>&nbsp;:&nbsp;<a  style="color:blue" href="#" target="_blank">CBSE Marsheet</a>,&nbsp;<a href="#" style="color:blue"  target="_blank">10thMarksheet</a>,&nbsp;</p>
+<p>✔&nbsp;<strong>Relevant Docs</strong>&nbsp;:&nbsp;<a  style="color:blue" href="https://drive.google.com/file/d/0B68yhAQuW4sTbWRDVTQyQkdibzA/view?usp=sharing" target="_blank">CBSE Marsheet</a>,&nbsp;<a href="https://drive.google.com/file/d/0B68yhAQuW4sTWlFCUFh4SW4tUk0/view?usp=sharing" style="color:blue"  target="_blank">10thMarksheet</a>,&nbsp;</p>
 
              <br><br>   
              

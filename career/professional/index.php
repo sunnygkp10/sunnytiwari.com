@@ -19,7 +19,7 @@ $url=$_SERVER['REQUEST_URI'];
             <div class="row">
                  <div class="col-xs-12 ">
                          <div class="panel panel-primary">
-                              <div class="panel-heading panel-heading-custom" style="background: #F44336; color: #fff; font-size:20px;">My Professional Career <span class="pull-right hidden-xs"><a href="#" style="color:#fff;text-decoration:none">View my Academic Career</a></span></div></div></div>
+                              <div class="panel-heading panel-heading-custom" style="background: #F44336; color: #fff; font-size:20px;">My Professional Career <span class="pull-right hidden-xs"><a href="http://localhost/sunnytiwari.com/career/academic/" style="color:#fff;text-decoration:none">View my Academic Career</a></span></div></div></div>
                              
                                           <!--detail of Summer Training start-->
                              
@@ -44,6 +44,7 @@ $url=$_SERVER['REQUEST_URI'];
                  <img src="http://localhost/sunnytiwari.com/image/netcamp-logo.jpg" align="right" style="height:120px;width:200px;padding:10px;" />
                     I was a Summer Trainee at Netcamp Pvt Limited . It is a specialized company which helps undergraduate students develop their programming skills during their vacation. Each week required 45 hrs of effort. Every training session was like a small scale hackathon - where I had to innovate, design and build. The training had both classroom as well as practical components.
                      </p>
+                 <P>Certificates : <a href="https://drive.google.com/folderview?id=0B68yhAQuW4sTbmxzQVp2bFVxVnM&usp=sharing" target="_blank" style="color:blue">Click here.</a></P>
                  </div>
              
              </div>
