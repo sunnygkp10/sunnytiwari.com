@@ -41,7 +41,7 @@ session_start();
      <link href="http://localhost/sunnytiwari.com/css/main.css" rel="stylesheet">
     <script src="http://localhost/sunnytiwari.com/js/jquery.min.js"></script>
        <!--include the css file for social media icon-->
-<link rel="stylesheet" href="//cdn.materialdesignicons.com/1.4.57/css/materialdesignicons.min.css"> 
+<link href="http://localhost/sunnytiwari.com/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css" />
 
     
  <!-- endbuild -->

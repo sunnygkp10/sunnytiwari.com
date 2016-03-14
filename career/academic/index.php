@@ -409,7 +409,7 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
         },
     
         title: {
-            text: 'Cumulative Percentage :77.95 %'
+            text: 'Cumulative Percentage :78.82 %'
         },
         subtitle: {
             text: ''
@@ -445,7 +445,7 @@ I have tried to explored a lot of opportunities in KNIT Sultanpur - Open Source 
         },
 
         series: [{
-            name: 'Brands',
+            name: 'Result',
             colorByPoint: true,
             data: [{
                 name: 'Semester 1',
