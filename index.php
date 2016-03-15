@@ -84,7 +84,7 @@ $url=$_SERVER['REQUEST_URI'];
                  <div class="col-xs-12 col-sm-3 lib">
                          <div class="panel panel-default">
                        <div class="panel-body lib_body">
-                        <a href="#">
+                        <a href="http://localhost/sunnytiwari.com/sunny_resume.pdf" download>
                              <center> <span class="ca-icon"><i class="mdi mdi-attachment"></i></span></center> 
                             <div class="ca-content">
                                 <h2 class="ca-main">Resume</h2>
@@ -133,7 +133,7 @@ Currently living in the Sultanpur, Uttar Pradesh, India.</p>
              
                <div class="col-xs-12 col-sm-4">
                                <p class="title1">Experience</p><hr>
-                               <p class="title2">Project Head at Drishticone KNIT Newsletter, <br>
+                               <p class="title2">Web-developer at Drishticone KNIT Newsletter, <br>
                                    Summer Training in Netcamp Solution Pvt.limited,<br>
                                    Freelancer
 </p>  <a href ="http://localhost/sunnytiwari.com/portofolio/" class="btn btn-sm btn-danger btn-raised" title="Sunny's Professional career">See more <i class="mdi mdi-rocket"></i>&nbsp;&nbsp;</a>  
