@@ -11,18 +11,18 @@
     
                 </div>
                 
-                
               <div class="col-xs-12 col-sm-4 col-sm-offset-4" >
                 <br>
                 <p class="title1">SEARCH THIS SITE</p>
-                <form action="#" method="post">
+                <form id="searchbox_008801790672599485380:c4kaibogywa" action="http://localhost/sunnytiwari.com/search/">
+  
                   <div class="form-group label-floating">
 
-  <label class="control-label" for="addon2">Enter Keywords</label>
+  <label class="control-label" for="q">Enter Keywords</label>
   <div class="input-group">
-    <input type="text" id="addon2" class="form-control">
+    <input type="text" id="q" name="q" class="form-control">
     <span class="input-group-btn">
-      <button type="submit" class="btn btn-fab btn-fab-mini">
+      <button type="submit" id="sa" class="btn btn-fab btn-fab-mini">
         <i class="material-icons">search</i>
       </button>
     </span>
@@ -76,6 +76,19 @@
 
         </script>
         <script src="http://localhost/sunnytiwari.com/js/main.js"></script>
+        <script>
+        //for google custom search
+  (function() {
+    var cx = '008801790672599485380:c4kaibogywa';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
         
     </body>
     
